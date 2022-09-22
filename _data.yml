@@ -1,0 +1,14 @@
+author:
+  name: Your Name Here
+  email: youremailaddress@example.com,
+  url: https://example.com/about-me/
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: Blog name
+  description: General description of the blog
+  twitter: "@username"
+  lang: en
+
+mergedKeys:
+  metas: object
